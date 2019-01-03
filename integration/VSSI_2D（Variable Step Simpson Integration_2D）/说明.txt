@@ -1,0 +1,4 @@
+在子程序中如果没有external f,fs
+会出现actual argument #n does not match the type and kind of the corresponding dummy argument.
+ call getgx(a,fs,f,eps,ga)
+

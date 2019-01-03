@@ -1,0 +1,10 @@
+32 ,23 ,12
+XY.DAT
+I3.DAT
+NB1_U1.DAT
+output.dat
+
+
+
+
+

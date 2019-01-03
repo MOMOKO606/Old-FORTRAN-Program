@@ -1,0 +1,3 @@
+子程序中k不必赋值，但k必须要从主程序中传入，即subroutine get_n(filename,k,n)不能改写成subroutine get_n(filename,n)。
+
+否则出错Error: A specification expression object must be a dummy argument, a COMMON block object, or an object accessible through host or use association   [K] real temp(1:k)
